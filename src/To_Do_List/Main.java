@@ -1,4 +1,6 @@
 package To_Do_List;
+import java.util.ArrayList;
+import java.util.Scanner;
 
 class Main {
     // Static list of users, acting as a database

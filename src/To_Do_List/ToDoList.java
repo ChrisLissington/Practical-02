@@ -1,4 +1,7 @@
 package To_Do_List;
+
+import java.util.Scanner;
+
 public class ToDoList {
     private User user;
     private boolean isRunning;
